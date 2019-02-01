@@ -10,7 +10,7 @@ $plyr-touch-action:                     true !default;
 $plyr-sr-only-important:                true !default;
 
 // Colors
-$plyr-color-main:                       #3498db !default;
+$plyr-color-main:                       #402020 !default;
 
 // Font sizes
 $plyr-font-family:                      Avenir, 'Avenir Next', 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif !default;
@@ -29,12 +29,12 @@ $plyr-control-icon-size:                18px !default;
 $plyr-control-spacing:                  10px !default;
 $plyr-control-padding:                  ($plyr-control-spacing * .7) !default;
 $plyr-video-controls-bg:                #000 !default;
-$plyr-video-control-color:              #fff !default;
+$plyr-video-control-color:              #402020 !default;
 $plyr-video-control-color-hover:        #fff !default;
 $plyr-video-control-bg-hover:           $plyr-color-main !default;
 $plyr-audio-controls-bg:                #fff !default;
 $plyr-audio-controls-border:            1px solid #dbe3e8 !default;
-$plyr-audio-control-color:              #565D64 !default;
+$plyr-audio-control-color:              #402020 !default;
 $plyr-audio-control-color-hover:        #fff !default;
 $plyr-audio-control-bg-hover:           $plyr-color-main;
 
@@ -48,9 +48,9 @@ $plyr-tooltip-radius:                   3px !default;
 // Progress
 $plyr-progress-loading-size:            25px !default;
 $plyr-progress-loading-bg:              transparentize(#000, .85) !default;
-$plyr-video-progress-bg:                transparentize(#fff, .75) !default;
+$plyr-video-progress-bg:                transparentize(#402020, .92) !default;
 $plyr-video-progress-buffered-bg:       $plyr-video-progress-bg !default;
-$plyr-audio-progress-bg:                transparentize(#C6D6DB, .33) !default;
+$plyr-audio-progress-bg:                transparentize(#402020, .92) !default;
 $plyr-audio-progress-buffered-bg:       $plyr-audio-progress-bg !default;
 
 // Range sliders
